@@ -1,8 +1,6 @@
-tensorflow
-opencv-python
-numpy
-matplotlib
-scikit-learn
-pillow
 streamlit
-jupyterlab
+tensorflow==2.12.0
+numpy
+pillow
+scikit-learn
+opencv-python-headless
